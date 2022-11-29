@@ -2,7 +2,7 @@
 Sample front-end project made for practice.
 Try it here: https://marinazhu.github.io/Meals_Menu/
 
-#Getting started
+# Getting started
 
 To get the server running locally:
 
