@@ -1,0 +1,82 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Menu 'Fitness'",
+      "descr": "Menu \"Fitness\" is a new approach to cooking: more fresh vegetables and fruits. For people who are interested in sports. This is a brand new product with good price and high quality!",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Menu 'Lenten'",
+      "descr": "Our special \"Lenten Menu\" is a careful selection of ingredients: the complete absence of animal products. Complete harmony with yourself and nature in every element! Everything will be Om!",
+      "price": 25
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Menu 'Premium'",
+      "descr": "Menu \"Premium\" - we use not only beautiful packaging design, but also high-quality execution of dishes. Red fish, seafood, fruits - a restaurant menu without going to a restaurant!",
+      "price": 30
+    }
+  ],
+  "requests": [
+    {
+      "name": "Leam",
+      "phone": "+4566709121",
+      "id": 1
+    },
+    {
+      "name": "Ann",
+      "phone": "+3806798544",
+      "id": 2
+    },
+    {
+      "name": "Leam",
+      "phone": "+4566709121",
+      "id": 3
+    },
+    {
+      "name": "Leam",
+      "phone": "+4566709121",
+      "id": 4
+    },
+    {
+      "name": "Leam",
+      "phone": "+4566709121",
+      "id": 5
+    },
+    {
+      "name": "Leam",
+      "phone": "+4566709121",
+      "id": 6
+    },
+    {
+      "name": "San",
+      "phone": "+449935612",
+      "id": 7
+    },
+    {
+      "name": "Ann",
+      "phone": "+3806798544",
+      "id": 8
+    },
+    {
+      "name": "San",
+      "phone": "+449935612",
+      "id": 9
+    },
+    {
+      "name": "Ann",
+      "phone": "+3806798544",
+      "id": 10
+    },
+    {
+      "name": "Leam",
+      "phone": "+4566709121",
+      "id": 11
+    }
+  ]
+}
