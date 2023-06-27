@@ -7,6 +7,7 @@ Try it here: https://marinazhu.github.io/Meals_Menu/
 To get the server running locally:
 
 - "npm install" to install all required dependencies
+- "npx webpack" to run webpack
 - "json-server db.json" to start the local server
 
 By default the local server will start on port 3000
